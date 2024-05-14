@@ -77,7 +77,7 @@ const ContactUs = () => {
       <div className="contactUs_imagen_flex">
         <img src={papaHop} alt="Papa hop" className="contactUs_imagen" />
         <h5>
-          Si quieres contactar conmigo ¡Daré saltos de alegria al recibir tu
+          Si quieres contactar conmigo ¡Daré saltos de alegría al recibir tu
           mensaje!
         </h5>
       </div>
