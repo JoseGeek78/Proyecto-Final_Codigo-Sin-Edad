@@ -12,8 +12,8 @@ const Invitation = () => {
         edad, donde cada línea de código es una oportunidad para construir algo
         extraordinario. En nuestra sección "Tus recomendaciones", te invitamos a
         romper barreras y explorar el vasto universo de la codificación sin
-        importar tu edad o nivel de experiencia. Registrate y publica temas de
-        interes, comenta temas de otros usuarios y crece continuanmente con
+        importar tu edad o nivel de experiencia. Regístrate y publica temas de
+        interés, comenta temas de otros usuarios y crece continuanmente con
         conocimiento que muchos quisieron tener cuando empezaron a programar.
       </p>
     </section>
